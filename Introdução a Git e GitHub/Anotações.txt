@@ -1,0 +1,3 @@
+O Git Bash é um terminal extendido, utilizado para otimizar o uso do Git.
+
+O download pode ser feito pelo site: https://git-scm.com/downloads
