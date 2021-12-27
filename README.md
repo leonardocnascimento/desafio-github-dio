@@ -1,5 +1,5 @@
-# Repositório do desafio da DIO sobre git/github
-Desafio de projeto sobre git/github para o bootcamp Cognizant.
+# Desafio da DIO sobre git/github
+Repositório criado para projeto sobre git/github do bootcamp Cognizant.
 
 ## Links úteis
 
