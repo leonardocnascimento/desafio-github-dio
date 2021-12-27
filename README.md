@@ -1,4 +1,4 @@
-# Desafio da DIO sobre git/github
+# Desafio da DIO sobre git/github :star:
 Repositório criado para projeto sobre git/github do bootcamp Cognizant.
 
 ## Links úteis
@@ -8,5 +8,3 @@ Repositório criado para projeto sobre git/github do bootcamp Cognizant.
 [Download do GIT](https://git-scm.com/downloads)
 
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
-
-
