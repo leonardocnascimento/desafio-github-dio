@@ -10,3 +10,10 @@ Repositório criado para projeto sobre git/github do bootcamp Cognizant.
 [Comandos básicos Git](https://comandosgit.github.io/)
 
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+
+## PASTAS
+
+### Variaveis1
+
+Possue os exercícios do curso: Variáveis, tipos de dados e operadores aritméticos.
