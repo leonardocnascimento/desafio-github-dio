@@ -16,10 +16,12 @@ Repositório criado para projeto sobre git/github do bootcamp Cognizant.
 
 ### Variaveis1
 
-Possue os exercícios sobre variáveis (Aula 1) do curso: **Variáveis, tipos de dados e operadores aritméticos.**
+Apresenta o exercício sobre variáveis (Aula 1) do curso: **Variáveis, tipos de dados e operadores aritméticos.**
 
 ### TiposDeDados
 
-
+Apresenta o exercício sobre tipos de dados (Aula 2) do curso: **Variáveis, tipos de dados e operadores aritméticos.**
 
 ### OperadoresAritimeticos
+
+Apresenta o exercício sobre tipos de dados (Aula 3) do curso: **Variáveis, tipos de dados e operadores aritméticos.**
