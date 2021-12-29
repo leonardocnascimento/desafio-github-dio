@@ -22,6 +22,6 @@ Apresenta o exercício sobre variáveis (Aula 1) do curso: **Variáveis, tipos d
 
 Apresenta o exercício sobre tipos de dados (Aula 2) do curso: **Variáveis, tipos de dados e operadores aritméticos.**
 
-### OperadoresAritimeticos
+### OperadoresAritmeticos
 
 Apresenta o exercício sobre tipos de dados (Aula 3) do curso: **Variáveis, tipos de dados e operadores aritméticos.**
