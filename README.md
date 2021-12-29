@@ -1,4 +1,4 @@
-# Desafio da DIO sobre git/github :star:
+# Desafio da DIO sobre git/github :star: :coffee:
 Repositório criado para projeto sobre git/github do bootcamp Cognizant.
 
 ## Links úteis
