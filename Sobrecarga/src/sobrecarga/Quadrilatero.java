@@ -10,6 +10,7 @@ package sobrecarga;
  * @author Leonardo
  */
 public class Quadrilatero {
+    // uma atenção em sobrecarga deve ser dada nos parâmetros dos métodos.
     
     public static void area(double lado) {
         
