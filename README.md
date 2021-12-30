@@ -35,3 +35,9 @@ Apresenta o exercício sobre Conversões (Casting) (Aula 4) do curso: **Variáve
 Apresenta os exercícios sobre Métodos em Java (Aula 1) do curso: **Entendendo Métodos Java.**
 
 O arquivo **Metodos.Java** é o main para os programas: | Calculadora.java | Emprestimo.java | Mensagem.java |
+
+### Sobrecarga
+
+Apresenta o exercício sobre Sobrecargas em Java (Aula 2) do curso: **Entendendo Métodos Java.**
+
+O arquivo **Sobrecarga.Java** é o main para o programs: | Quadrilatero.java | 
