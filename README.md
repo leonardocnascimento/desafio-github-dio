@@ -32,4 +32,4 @@ Apresenta o exercício sobre Conversões (Casting) (Aula 4) do curso: **Variáve
 
 ### Metodos
 
-Apresenta os exercícios sobre Métodos em Java (Aula 1) do curso: **Entendendo Métodos Java**
+Apresenta os exercícios sobre Métodos em Java (Aula 1) do curso: **Entendendo Métodos Java.**
