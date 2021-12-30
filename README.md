@@ -1,7 +1,7 @@
-# Desafio da DIO sobre git/github :star: :coffee:
+# Desafio da DIO sobre git/github :star: ☕
 Repositório criado para projeto sobre git/github do bootcamp Cognizant.
 
-## Links úteis
+## Links úteis 💡
 
 [Digital Innovation One - DIO - Torne-se um programador global](https://www.dio.me/sign-in)
 
@@ -12,7 +12,7 @@ Repositório criado para projeto sobre git/github do bootcamp Cognizant.
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
-## PASTAS
+## PASTAS 📦
 
 ### Variaveis1
 
