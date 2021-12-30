@@ -29,3 +29,7 @@ Apresenta o exercício sobre tipos de dados (Aula 3) do curso: **Variáveis, tip
 ### ConversoesCasting
 
 Apresenta o exercício sobre Conversões (Casting) (Aula 4) do curso: **Variáveis, tipos de dados e operadores aritméticos.**
+
+### Metodos
+
+Apresenta os exercícios sobre Métodos em Java (Aula 1) do curso: **Entendendo Métodos Java**
