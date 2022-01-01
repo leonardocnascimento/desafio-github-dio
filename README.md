@@ -41,3 +41,9 @@ O arquivo **Metodos.Java** é o main para os programas: | Calculadora.java | Emp
 Apresenta o exercício sobre Sobrecargas em Java (Aula 2) do curso: **Entendendo Métodos Java.**
 
 O arquivo **Sobrecarga.Java** é o main para o programa: | Quadrilatero.java | 
+
+### Retornos
+
+Apresenta o exercício sobre Retornos em Java (Aula 3) do curso: **Entendendo Métodos Java.**
+
+O arquivo **Rertornos.Java** é o main para o programa: | Quadrilatero.java | 
