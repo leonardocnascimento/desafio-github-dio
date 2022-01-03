@@ -1,5 +1,5 @@
-# Desafio da DIO sobre git/github :star: ‚òï
-Reposit√≥rio criado para projeto sobre git/github do bootcamp Cognizant.
+# Desafio da DIO sobre git/github :star: :coffee:
+RepositÛrio criado para projeto sobre git/github do bootcamp Cognizant.
 
 ## Links √∫teis üí°
 
@@ -7,43 +7,47 @@ Reposit√≥rio criado para projeto sobre git/github do bootcamp Cognizant.
 
 [Download do Git](https://git-scm.com/downloads)
 
-[Comandos b√°sicos Git](https://comandosgit.github.io/)
+[Comandos b·sicos Git](https://comandosgit.github.io/)
 
-[Sintaxe b√°sica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe b·sica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
-## PASTAS üì¶
+## PASTAS :backpack:
 
 ### Variaveis1
 
-Apresenta o exerc√≠cio sobre vari√°veis (Aula 1) do curso: **Vari√°veis, tipos de dados e operadores aritm√©ticos.**
+Apresenta o exercÌcio sobre vari·veis (Aula 1) do curso: **Vari·veis, tipos de dados e operadores aritmÈticos.**
 
 ### TiposDeDados
 
-Apresenta o exerc√≠cio sobre tipos de dados (Aula 2) do curso: **Vari√°veis, tipos de dados e operadores aritm√©ticos.**
+Apresenta o exercÌcio sobre tipos de dados (Aula 2) do curso: **Vari·veis, tipos de dados e operadores aritmÈticos.**
 
 ### OperadoresAritmeticos
 
-Apresenta o exerc√≠cio sobre tipos de dados (Aula 3) do curso: **Vari√°veis, tipos de dados e operadores aritm√©ticos.**
+Apresenta o exercÌcio sobre tipos de dados (Aula 3) do curso: **Vari·veis, tipos de dados e operadores aritmÈticos.**
 
 ### ConversoesCasting
 
-Apresenta o exerc√≠cio sobre Convers√µes (Casting) (Aula 4) do curso: **Vari√°veis, tipos de dados e operadores aritm√©ticos.**
+Apresenta o exercÌcio sobre Conversıes (Casting) (Aula 4) do curso: **Vari·veis, tipos de dados e operadores aritmÈticos.**
 
 ### Metodos
 
-Apresenta os exerc√≠cios sobre M√©todos em Java (Aula 1) do curso: **Entendendo M√©todos Java.**
+Apresenta os exercÌcios sobre MÈtodos em Java (Aula 1) do curso: **Entendendo MÈtodos Java.**
 
-O arquivo **Metodos.Java** √© o main para os programas: | Calculadora.java | Emprestimo.java | Mensagem.java |
+O arquivo **Metodos.Java** È o main para os programas: | Calculadora.java | Emprestimo.java | Mensagem.java |
 
 ### Sobrecarga
 
-Apresenta o exerc√≠cio sobre Sobrecargas em Java (Aula 2) do curso: **Entendendo M√©todos Java.**
+Apresenta o exercÌcio sobre Sobrecargas em Java (Aula 2) do curso: **Entendendo MÈtodos Java.**
 
-O arquivo **Sobrecarga.Java** √© o main para o programa: | Quadrilatero.java | 
+O arquivo **Sobrecarga.Java** È o main para o programa: | Quadrilatero.java | 
 
 ### Retornos
 
-Apresenta o exerc√≠cio sobre Retornos em Java (Aula 3) do curso: **Entendendo M√©todos Java.**
+Apresenta o exercÌcio sobre Retornos em Java (Aula 3) do curso: **Entendendo MÈtodos Java.**
 
-O arquivo **Rertornos.Java** √© o main para o programa: | Quadrilatero.java | 
+O arquivo **Rertornos.Java** È o main para o programa: | Quadrilatero.java |
+
+### OperadoresLogicos
+
+Apresenta o exercÌcio sobre Operadores relacionais e lÛgicos do curso: **LÛgica condicional e Controle de fluxos em Java.**
