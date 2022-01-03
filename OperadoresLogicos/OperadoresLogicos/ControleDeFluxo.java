@@ -205,7 +205,7 @@ public class ControleDeFluxo {
         
         String mes = "Dezembro";
 
-        switch (key) {
+        switch (mes) {
             case "Dezembro":
             case "Janeiro":
             case "Julho":
