@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Metodos/src",
-        "OperadoresLogicos"
+        "OperadoresLogicos",
+        "EstruturasDeRepeticao"
     ]
 }
