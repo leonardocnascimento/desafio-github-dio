@@ -54,4 +54,4 @@ Apresenta o exercício sobre Operadores relacionais e lógicos do curso: **Lógica 
 
 ### [EstruturasDeRepetição](https://github.com/leonardocnascimento/desafio-github-dio/tree/main/EstruturasDeRepeticao/EstruturasDeRepeticao)
 
-Apresenta exercícios sobre Estruturas de Repetição: **while, do while e for** do curso **Estruturas de Repetição e Arrays em Java.**
+Apresenta exercícios sobre Estruturas de Repetição e Arrays: **while, do while e for** do curso **Estruturas de Repetição e Arrays em Java.**
