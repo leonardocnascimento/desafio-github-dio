@@ -26,7 +26,7 @@ Apresenta o exercício sobre tipos de dados (Aula 2) do curso: **Variáveis, tipos
 
 Apresenta o exercício sobre tipos de dados (Aula 3) do curso: **Variáveis, tipos de dados e operadores aritméticos.**
 
-### ConversoesCasting
+### [ConversoesCasting](https://github.com/leonardocnascimento/desafio-github-dio/tree/main/ConversoesCasting)
 
 Apresenta o exercício sobre Conversões (Casting) (Aula 4) do curso: **Variáveis, tipos de dados e operadores aritméticos.**
 
